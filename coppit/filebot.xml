@@ -18,9 +18,9 @@
     FileBot is a media file organizer. Drop files into the input directory, and
     they'll be cleaned up and moved to the output directory. Or use the UI!
   </Overview>
-  <Registry>https://hub.docker.com/r/coppit/filebot/</Registry>
-  <Repository>coppit/filebot</Repository>
-  <GitHub>https://github.com/coppit/docker-filebot</GitHub>
+  <Registry>https://hub.docker.com/r/leadingbump/filebot/</Registry>
+  <Repository>leadingbump/filebot</Repository>
+  <GitHub>https://github.com/leadingbump/docker-filebot</GitHub>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>
